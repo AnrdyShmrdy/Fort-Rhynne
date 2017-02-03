@@ -1,2 +1,2 @@
-# Test-of-fate
-He who has the key can unlock the gate.
+# This is my repository
+Nothing special here
